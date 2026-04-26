@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a Fullstack developer.
 
 ## 💼 Portfolio:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.ayushbhetwal.com.np)
