@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-
+## 💼 Portfolio:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.ayushbhetwal.com.np)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_bhetwall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-bhetwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rujanbhetwal@gmail.com) 
